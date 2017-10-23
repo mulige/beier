@@ -1,0 +1,18 @@
+
+
+.EmptyCarshow {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0.4rem;
+    img {
+        width: 1.04rem;
+        height: 1.06rem; 
+    }
+    p {
+        color: #333;
+        font-size: 0.14rem; 
+        margin-top: 0.2rem;
+    }
+}
